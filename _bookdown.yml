@@ -4,3 +4,13 @@ language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
+rmd_files:
+  - index.Rmd
+  - 01-intro.Rmd
+  - 02-intro_bookdown.Rmd
+  - 03-literature.Rmd
+  - 04-method.Rmd
+  - 05-application.Rmd
+  - 06-summary.Rmd
+  - 07-added_chapter.Rmd
+  - 08-references.Rmd
