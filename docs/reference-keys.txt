@@ -1,8 +1,8 @@
 fig:nice-fig
 tab:nice-tab
 prerequisites
-intro
 intro_real
+intro
 literature
 methods
 math-example
