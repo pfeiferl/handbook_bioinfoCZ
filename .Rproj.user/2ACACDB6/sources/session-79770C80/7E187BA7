@@ -1,0 +1,26 @@
+{
+    "id": "7E187BA7",
+    "path": "~/Documents/handbook_bioinfoCZ/bookdown-demo-main/_publish.R",
+    "project_path": "_publish.R",
+    "type": "r_source",
+    "hash": "2158771194",
+    "contents": "",
+    "dirty": true,
+    "created": 1743252975519.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "30,65",
+        "scrollLine": "23"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743252760,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743252760,
+    "read_only": false,
+    "read_only_alternatives": []
+}
