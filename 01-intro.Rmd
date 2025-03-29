@@ -1,4 +1,4 @@
-# Introduction {#intro_real}
+# Introduction {#intro}
 
 Bioinformatika je relativně nový, interdisciplinární vědní obor zabývající se analýzou,
 interpretací a využitím velkých biologických dat za použití výpočetních technologií a
