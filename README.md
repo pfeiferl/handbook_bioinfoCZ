@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.com/rstudio/bookdown-demo.svg?branch=master)](https://travis-ci.com/rstudio/bookdown-demo)
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
+Pro vytvoření této knihy byly použity R balíčky R Markdown a **bookdown** (https://github.com/rstudio/bookdown). Skripta Bioinformatika: Základy vznikla z potřeby moderního výukového materiálu pro studijní obor Bioinformatika. Kapitoly pokrývají nejdůležitější témata, se kterými se student (genomické) bioinformatiky může setkat. V první části je obecně popsána bioinformatika, základy biologie a sekvenační techniky, databáze a nástroje. Následující kapitoly popisují zpracování a kontrolu kvality hrubých sekvenačních dat, alignment, mapování a assembly. Poslední kapitoly popisují následné zpracování získaných dat, včetně funkční analýzy. Skripta jsou zaměřena především pro studenty předmětů Genomika: Algoritmy a analýza a Analýza genové exprese. Užitečné informace v ní však najdou i další zájemci o tento obor.
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
-# handbook_bioinfoCZ
+You can find the example used for creating this book  at https://bookdown.org/yihui/bookdown-demo/.

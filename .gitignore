@@ -1,12 +1,13 @@
 
 # don't push local rendered files in master branch
+renv/
 _book/
 _bookdown_files/
 libs/
 **/*.bib
-**/*.html 
+**/*.html
 # ignore all html files except:
-master.zip*/mathjax_header.html
+.travis.yml DESCRIPTION Dockerfile _build.sh _deploy.sh now.json .gitignore*/mathjax_header.html
 # R and Rstudio specific files
 .Rproj.user
 .Rhistory

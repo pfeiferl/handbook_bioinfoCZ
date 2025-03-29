@@ -1,0 +1,20 @@
+# Introduction {#intro_real}
+
+Bioinformatika je relativně nový, interdisciplinární vědní obor zabývající se analýzou,
+interpretací a využitím velkých biologických dat za použití výpočetních technologií a
+metod. Taktéž se věnuje vývoji nových algoritmů, programů, analytických modelů a
+databází, ukládání, transformování a přenosu velkých objemů dat. Tento vědní obor
+zahrnuje studium genomů, signálních a metabolických drah, 3D dat, proteinových domén,
+i farmakologických složek. Kombinuje znalosti z molekulární biologie a výpočetní
+informatiky, ale také z matematiky, statistiky, biochemie, chemie a vytěžování dat.
+Kromě klasické bioinformatiky, která spíše využívá výpočetní technologie k získání
+informací z biologických dat, případně vytváří nové algoritmy na zpracování
+biologických dat, se můžeme setkat s computational biology, která využívá biologická
+data na vytváření algoritmů a prediktivních modelů. V computational biology se také
+častěji využívá machine learning, neurální sítě a umělá inteligence. Typickým využitím
+computational biology je návrh nových léčiv nebo výběr vhodného kmene chřipky na
+očkování na nadcházející období.
+Data science jako obor, který se věnuje zpracování a získání informací ze strukturovaných
+i nestrukturovaných dat pomocí algoritmů a výpočetních procesů, se pak dá považovat za
+nadmnožinu bioinformatiky.
+

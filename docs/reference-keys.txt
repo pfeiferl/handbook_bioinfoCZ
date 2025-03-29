@@ -1,0 +1,12 @@
+fig:nice-fig
+tab:nice-tab
+prerequisites
+intro
+intro_real
+literature
+methods
+math-example
+applications
+example-one
+example-two
+final-words
