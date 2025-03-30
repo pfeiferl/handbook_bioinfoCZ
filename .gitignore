@@ -3,7 +3,7 @@
 renv/
 _book/
 _bookdown_files/
-libs/
+#libs/
 # **/*.bib
 # **/*.html
 # ignore all html files except:
