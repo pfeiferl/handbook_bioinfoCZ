@@ -18,3 +18,34 @@ Data science jako obor, který se věnuje zpracování a získání informací z
 i nestrukturovaných dat pomocí algoritmů a výpočetních procesů, se pak dá považovat za
 nadmnožinu bioinformatiky.
 
+## Základní znalosti a předpoklady
+
+Vzhledem k šíři a problematice oboru je kromě pouhého použití již vytvořených softwarových nástrojů i poměrně důležité chápat podstatu využívaných algoritmů, podstatu biologického problému, kterým se zabývá výzkum i jeho technologické zpracování.  Z tohoto důvodu je dobré mít základní znalosti v následujících oblastech:
+
+**Biologie** – závisí na problematice, kterou se výzkum hodlá zabývat. Obecně jsou požadovány znalosti molekulární biologie, genového inženýrství, genetiky, genomiky, evoluce a signálních drah.
+
+**Technologie** – vzhledem k původu dat, znalost převážně moderních metod sekvenování, v menší míře i čipových dat.
+
+**Bioinformatika** – znalost stávajících bioinformatických nástrojů a chápání základních algoritmů (typicky např. lokální a globální zarovnání, skórovací matice), orientace v databázích, práce s různými datovými typy.
+
+**Statistika a programování** – většinou je vyžadování znalost Pythonu, R, případně Matlabu a Perlu (ten už ale spíše výjimečně). Dále je nezbytná orientace v základní statistice, testování hypotéz a v korelačních analýzách. Rozhodně je dobré mít znalosti i databázových systémů v jazyku SQL nebo SPARQL.
+
+**Vytěžování znalostí z dat** – hierarchické klastrování, tvorba stromů, orientovaných i neorientovaných grafů, znalosti efektivního vyhledávání v textech (základ pro hledání podobností a zarovnání).
+
+**Soft skills** – schopnost komplexního myšlení, schopnost pracovat samostatně a učit se samostatně novým věcem, a hlavně znalost anglického jazyka – protože většina nástrojů, článků, příruček a návodů je v anglickém jazyce.
+
+```{r ,echo=FALSE,comment=NA, class.output="bg-success"}
+long_text <- "Tento seznam je samozřejmě spíše ilustrační, studium bioinformatiky je dlouhodobý proces, ve kterém se spousta poznatků a zkušeností získá praxí (ostatně tak jako ostatně ve všech oborech)"
+wrapped_text <- strwrap(long_text, width = 80)  # Wrap text at 50 characters width
+
+cat(wrapped_text, sep = "\n")
+```
+
+```{r, echo = FALSE,comment=NA, class.output="bg-warning"}
+long_text <- "Jelikož drtivá většina bioinformatických nástrojů a softwarových řešení je implementovaná na linuxový systém, je nutná alespoň základní orientace v příkazové řádce."
+wrapped_text <- strwrap(long_text, width = 80)  # Wrap text at 50 characters width
+
+cat(wrapped_text, sep = "\n")
+```
+
+

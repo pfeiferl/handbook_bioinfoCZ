@@ -12,3 +12,39 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+bg-success {
+    background-color: #d4edda !important;  /* Light green */
+    color: #155724 !important;             /* Dark green text */
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+}
+
+pre.bg-success {
+    background-color: #d4edda !important;  /* Light green */
+    color: #155724 !important;             /* Dark green text */
+    border-left: 5px solid #28a745;         /* Bootstrap green */
+    padding: 10px;
+    border-radius: 5px;
+    font-family: monospace;
+    font-size: 1em;
+}
+
+bg-warning {
+    background-color: #f8d7da !important;  /* Light green */
+    color: #721c24 !important;             /* Dark green text */
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+}
+pre.bg-warning {
+    background-color: #f8d7da !important;  /* Light red/pink background */
+    color: #721c24 !important;             /* Dark red text */
+    border-left: 5px solid #721c24;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: monospace;
+    font-size: 1em;
+}
+

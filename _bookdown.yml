@@ -1,5 +1,7 @@
-book_filename: "bookdown-demo"
+book_filename: "bioinformatika"
 output_dir: "docs"
+bookdown::gitbook:
+  split_by: "section"
 language:
   ui:
     chapter_name: "Chapter "
