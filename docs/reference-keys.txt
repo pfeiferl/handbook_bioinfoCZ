@@ -2,6 +2,9 @@ fig:nice-fig
 tab:nice-tab
 intro
 základní-znalosti-a-předpoklady
+využití-bioinformatiky
+historický-přehled
+zdroje
 bookdown_intro
 literature
 methods

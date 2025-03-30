@@ -48,4 +48,45 @@ wrapped_text <- strwrap(long_text, width = 80)  # Wrap text at 50 characters wid
 cat(wrapped_text, sep = "\n")
 ```
 
+## Využití bioinformatiky
+
+Bioinformatika má široké využití ve státní i soukromé sféře. Bioinformatici nejčastěji nachází uplatnění ve výzkumu, primárním i jako servisní skupina pro podporu ostatních výzkumů, dále např. ve farmaceutickém průmyslu při hledání nových farmakoaktivních látek, ve šlechtitelství, v potravinářském průmyslu u kontroly falšování potravin, v biotechnologických firmách a ve zdravotnických zařízeních pro detekci potenciálně patogenních variant, personalizovanou medicínu a genové terapie.
+
+Bioinformatika se věnuje všem typům biologických dat, mezi časté oblasti využití spadá např.:
+
+**Anotace genomu** – lokalizace a charakterizace genů a kódujících oblastí, včetně určení jejich proteinového produktu a funkce, označení hranice intron-exon, určení regulačních oblastí a repetic.
+
+**Komparativní bioinformatika** – porovnávání genomů (genů, sekvencí, regulačních oblastí) různých organismů s cílem vyhledat sekvence, které sdílejí společného předka, a získat informace o tom, jak jsou dané sekvence zakonzervovány a určit evoluční vztahy mezi nimi.
+
+**Analýza variant** – často se využívá v medicíně pro odhalení sekvenčních variant (mutací: jednonukleotidových (SNP) i vícenukleotidových polymorfismů (MNP), delece, inzerce), které by mohly způsobovat případně ovlivňovat onemocnění pacienta.
+
+**(Diferenční) Analýza genové exprese** – typicky zkoumání rozdílu exprese genů mezi zdravou a nemocnou tkání, před, během a po podání léčebné látky, dále charakterizace metabolických a signálních drah.
+
+**Predikce struktury proteinů** – předpověď trojrozměrné struktury proteinů umožňuje zjistit funkci proteinu, ale ji i vhodnou proteinovou úpravou změnit, určit vazebná místa a molekuly a další proteiny, které se na dané místo váží. Důležitá metoda pro umožnění léčby geneticky podmíněných chorob pomocí proteinové terapie.
+
+**Výběr/návrh nových léčiv** – prohledávání chemického prostoru a tvorba nových léčiv na základě znalosti biologického cíle a struktury vazebného místa s cílem zlevnit a zrychlit celý proces vývoje nových léčiv.
+
+**Bioinformatika obrazu (Bioimage informatics)** –využití výpočetních technik k analýze bioobrazů získaných např. z fluorescenční mikroskopie nebo histologie. 
+
+Do dalších oblastí spadá analýza proteomických dat, vytváření ontologií, homologní modelování, vazebné interakce, predikce vztahu struktura-funkce a jiné.
+
+##	Historický přehled
+
+Pokud vezmeme v potaz základní definici bioinformatiky, tedy že se jedná o analýzu biologických systémů za využití výpočetní techniky, pak se bioinformatika překvapivě datuje už na začátek 60. let 20. století. V této době se myšlenka, že makromolekuly jsou nositelkami dědičné informace, stala středobodem koncepčního rámce molekulární biologie. Důležitou osobou toho období je Margaret Dayhoff, která napsala řadu programů ve FORTRANu na stanovení úplně proteinové sekvence z fragmentů. Tyto programy byly schopny stanovit správnou sekvenci malého proteinu (ribonukleázy) během pár minut.
+
+Rozvoj moderní bioinformatiky ale nastal až později v 80. letech, kdy Marvin H. Carruthers a Leroy Hood vytvořili metodu pro automatizované sekvenování DNA, a vznikly první velké databáze DNA sekvencí jako GenBank, EMBL a DNA Database of Japan. Roku 1988 byla založena Human Genome organization (HUGO). O rok později byla publikována první genomová mapa (pro bakterii Haemophilus influenza) a o další rok později odstartovat projekt sekvenování lidského genomu (Human Genome Project). 
+
+Více konkrétních událostí předcházejících i provázejících vývoj interdisciplinárního oboru bioinformatika najdete v Příloze v rámci Časové osy milníků molekulární biologie a výpočetní technologie.
+
+## Zdroje
+
+Fox, J. What is bioinformatics?, 2005. The Science Creative Quarterly. [https://www.scq.ubc.ca/what-is-bioinformatics/](https://www.scq.ubc.ca/what-is-bioinformatics/) (accessed Dec 09, 2020).
+
+Luscombe NM, Greenbaum D, Gerstein M. What is bioinformatics? A proposed definition and overview of the field. Methods Inf Med. 2001;40(4):346-358. [http://archive.gersteinlab.org/papers/e-print/whatis-mim/text.pdf](http://archive.gersteinlab.org/papers/e-print/whatis-mim/text.pdf)
+
+Tampi, S. M. Introduction to Bioinformatics, 2009. arxiv.org e-Print archive. [https://arxiv.org/ftp/arxiv/papers/0911/0911.4230.pdf](https://arxiv.org/ftp/arxiv/papers/0911/0911.4230.pdf) (accessed Dec 27, 2020).
+
+Vincent AT, Charette SJ. Who qualifies to be a bioinformatician?. Front Genet. 2015;6:164. Published 2015 Apr 24. [https://doi.org/10.3389/fgene.2015.00164](https://doi.org/10.3389/fgene.2015.00164)
+
+Welch L, Lewitter F, Schwartz R, et al. Bioinformatics curriculum guidelines: toward a definition of core competencies. PLoS Comput Biol. 2014;10(3):e1003496. Published 2014 Mar 6. [https://doi:10.1371/journal.pcbi.1003496](https://doi:10.1371/journal.pcbi.1003496)
 

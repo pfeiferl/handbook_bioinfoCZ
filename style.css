@@ -13,6 +13,10 @@ pre code {
   white-space: inherit;
 }
 
+body {
+  text-align: justify;
+}
+
 bg-success {
     background-color: #d4edda !important;  /* Light green */
     color: #155724 !important;             /* Dark green text */
